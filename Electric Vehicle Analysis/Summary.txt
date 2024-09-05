@@ -1,4 +1,4 @@
-Here’s a summary of the Power BI project described in the transcript:
+
 
 Project Overview:
 Objective: Create an interactive dashboard for Electric Vehicle (EV) analysis using Power BI, focusing on various Key Performance Indicators (KPIs) and charts to visualize the adoption and performance of electric vehicles over time.
