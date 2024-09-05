@@ -1,0 +1,38 @@
+Here’s a summary of the Power BI project described in the transcript:
+
+Project Overview:
+Objective: Create an interactive dashboard for Electric Vehicle (EV) analysis using Power BI, focusing on various Key Performance Indicators (KPIs) and charts to visualize the adoption and performance of electric vehicles over time.
+Key Components:
+Dashboard Design:
+
+The dashboard has a green theme to represent green energy.
+Various charts and KPIs are used to display data related to electric vehicles.
+Slicers and filters enable dynamic interaction with the dashboard, allowing users to drill down into specific data segments.
+KPIs:
+
+Total Vehicles: The total number of electric vehicles.
+Average Electric Range: The average distance vehicles can travel on a full charge.
+Battery Electric Vehicles (BEV): Vehicles running solely on electricity.
+Plug-in Hybrid Electric Vehicles (PHEV): Vehicles that use both electricity and traditional fuel.
+Percentage of BEV and PHEV: The proportion of BEVs and PHEVs in the total vehicle dataset.
+Charts:
+
+Total Vehicles by Model Year: Shows the growth trend of electric vehicles from 2010 onwards using a line or area chart.
+Total Vehicles by State: A map visualizing the distribution of electric vehicles across different states.
+Top 10 Vehicles by Make: A bar chart displaying the top manufacturers of electric vehicles.
+Clean Alternative Fuel Vehicles (CAF): A pie chart showing the proportion of vehicles that are eligible for clean alternative fuel status.
+Top 10 Vehicles by Model: A tree map showing the top vehicle models by total sales.
+Data and Tools:
+
+The dataset was sourced from Kaggle, covering vehicle data from 2010 to 2024.
+Power Query was used for data cleaning and transformation.
+DAX formulas were utilized to calculate metrics like total vehicles, average electric range, and the percentages of BEV and PHEV.
+Interactivity:
+
+Users can filter data by city, electric utility, and vehicle type.
+The dashboard supports dynamic filtering, allowing users to analyze data for specific manufacturers, states, or vehicle types.
+Problem Statement:
+
+Provided by a client, the problem statement required the analysis of electric vehicle adoption trends, identification of leading manufacturers and models, and the understanding of vehicle range capabilities.
+Conclusion:
+The project demonstrates the creation of a comprehensive and interactive Power BI dashboard that provides valuable insights into the electric vehicle market, highlighting trends in adoption, performance, and manufacturer dominance. The dashboard’s interactivity and visual clarity make it a powerful tool for analyzing EV data.
